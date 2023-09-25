@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **khan88012/khan88012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdasifkhan3101@gmail.com, asifkhan88012@gmail.com, 9949677311
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
