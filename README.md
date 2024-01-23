@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan88012&label=Profile%20views&color=0e75b6&style=flat" alt="khan88012" /> </p>
 
-- 🔭 I’m currently working on [An Extension for visual studio code that generates classes.](https://github.com/khan88012/typescript-class-generator)
+- 🔭 I’m currently working on [A custom email service nuget package.](https://www.nuget.org/packages/CustomEmailKitByAsif/)
 
 - 🌱 I’m currently learning **Advance angular concepts, AWS, extension creation**
 
 - 📝 I regularly write articles on [https://asifkhanwrites.hashnode.dev/](https://asifkhanwrites.hashnode.dev/)
 
-- 💬 Ask me about **Angular, Typescript, CSS, HTML, Bootstrap**
+- 💬 Ask me about **Angular, Typescript, CSS, HTML, Bootstrap, C#, .Net, Entity Framework, SQL**
 
 - 📫 How to reach me **mdasifkhan3101@gmail.com, asifkhan88012@gmail.com, 9949677311**
 
